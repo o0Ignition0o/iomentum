@@ -1,0 +1,16 @@
+.projects {
+    div {
+        text-align: center;
+        margin: 1em;
+    }
+
+    img {
+        width: 90%;
+        padding-bottom: 1em;
+        margin: 0 auto;
+    }
+
+    .slick-prev::before, .slick-next::before {
+        line-height: 1.3;
+    }
+}

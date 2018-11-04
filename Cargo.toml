@@ -1,0 +1,14 @@
+[package]
+name = "iomentum"
+version = "0.1.0"
+authors = ["Jeremy Lempereur"]
+
+[dependencies]
+strum = "0.11.0"
+strum_macros = "0.11.0"
+serde = "1.0.80"
+serde_derive = "1.0.80"
+yew = { git = "https://github.com/DenisKolodin/yew" }
+stdweb = "0.4.10"
+failure = "0.1.3"
+failure_derive = "0.1.3"
